@@ -1,0 +1,7 @@
+C:\Users\augusto.enmororo\source\repos\Livraria\Livraria\bin\Debug\Livraria.exe.config
+C:\Users\augusto.enmororo\source\repos\Livraria\Livraria\bin\Debug\Livraria.exe
+C:\Users\augusto.enmororo\source\repos\Livraria\Livraria\bin\Debug\Livraria.pdb
+C:\Users\augusto.enmororo\source\repos\Livraria\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\augusto.enmororo\source\repos\Livraria\Livraria\obj\Debug\Livraria.exe
+C:\Users\augusto.enmororo\source\repos\Livraria\Livraria\obj\Debug\Livraria.pdb
+C:\Users\augusto.enmororo\source\repos\Livraria\Livraria\obj\Debug\Livraria.csproj.AssemblyReference.cache
